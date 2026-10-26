@@ -1,0 +1,6 @@
+{
+  "name": "Apex Torque - Airtime Vehicle Stunt Simulator",
+  "description": "Physics-based vehicle airtime simulator with realistic torque, angular momentum, trick combos, and landing mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
